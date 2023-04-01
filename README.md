@@ -5,4 +5,4 @@
 2. Aplikasi Izin Siswa/Guru Piket 
 3. Aplikasi Absensi Pembelajaran 
 4. Aplikasi Absensi Siswa
-
+5. Aplikasi Pinjol
